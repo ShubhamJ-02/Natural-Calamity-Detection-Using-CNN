@@ -1,0 +1,1 @@
+# Natural-Calamity-Detection-Using-CNN
